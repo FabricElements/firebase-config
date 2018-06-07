@@ -1,0 +1,17 @@
+{
+  "name": "firebase-config",
+  "description": "Default firebase config",
+  "main": "index.js",
+  "authors": [
+    "FabricElements authors"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1"
+}

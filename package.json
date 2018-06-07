@@ -1,0 +1,8 @@
+{
+  "name": "@fabricelements/firebase-config",
+  "version": "0.0.1",
+  "description": "Default firebase config",
+  "main": "index.js",
+  "author": "",
+  "private": true
+}
