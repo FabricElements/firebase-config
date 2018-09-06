@@ -3,6 +3,7 @@
  */
 (function() {
   'use strict';
+  const firebase = window.firebase;
   if (typeof firebase === 'undefined') {
     throw new Error('hosting/init-error: Firebase SDK not detected.');
   }
