@@ -24,11 +24,4 @@
       autobind.signedIn = !(!user);
     });
   }
-  // Enable firestore persistence
-  setTimeout(() => {
-    const firestore = firebase.firestore();
-    firestore.settings({
-      timestampsInSnapshots: true,
-    });
-  }, 200);
 })();
